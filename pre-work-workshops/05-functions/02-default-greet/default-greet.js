@@ -2,4 +2,4 @@
 const defaultGreet = (firstName, lastName = "Doe") => {
   return `Hi ${firstName} ${lastName}!`;
 };
-defaultGreet();
+defaultGreet("Hemlal");
