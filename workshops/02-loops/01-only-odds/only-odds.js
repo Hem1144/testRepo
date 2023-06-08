@@ -1,5 +1,5 @@
 function onlyOdds(number) {
-  debugger;
+  
   if (number < 1) {
     return 0;
   }
